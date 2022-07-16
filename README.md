@@ -1,6 +1,2 @@
 # Curso-Prepraci-n-TOP-Julio-2022-
-Día 1
-Día 2
-Día 3
-Día 4
-Día 5
+desde el Día 1 al Día 5
