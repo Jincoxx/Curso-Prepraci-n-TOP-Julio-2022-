@@ -2,6 +2,7 @@
 ejersicios preparatorios desde el Día 1 al Día 5 de make it real
 
 Ejercicio 1
+
 Evaluar las expresiones, guardar su valor en una variable y mostrar el resultado
 
 // Se debe guardar la expresion en una variable llamada operation
