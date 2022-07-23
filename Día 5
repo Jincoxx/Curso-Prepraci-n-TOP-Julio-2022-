@@ -1,0 +1,27 @@
+//Solucion 13
+
+function transformTToString(n) {
+    let string = "";
+    return string + n
+}
+
+// Solucion 14
+
+function palindrome(texto) {
+    return texto.split("").reverse().join("") == texto;
+}
+
+//Solucion 15
+
+const data = [[1, 2], 3, 4[5[6, 7]]];
+
+function flatten(arr) {
+    let flattened = [];
+    for (let i=0; i < arr.length; i++) {
+        Array.isArray(arr[i])
+        ? flattened = flaetten.concat(flatten(arr[i]))
+        : flattened.push(arr[i]);
+    }
+    return flattened;
+}
+console.log(flatten(data))
